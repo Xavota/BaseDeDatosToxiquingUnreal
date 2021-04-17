@@ -1,15 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "title": "Rivaz me la pela" },
-    { "id": 2, "title": "Con tomate" },
-    { "id": 3, "title": "Y patatas" },
-    { "id": 4, "title": "Muy calientes" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "objects": [
+    { "id": 1, "name": "Cube", "position": [ 0, 0, 0 ], "rotation": [ 0, 0, 0 ], "scale": [ 1, 1, 1 ] },
+    { "id": 2, "name": "Sphere", "position": [ 1, 0, 0 ], "rotation": [ 0, 0, 0 ], "scale": [ 2, 2, 2 ] }
+  ]
 }
